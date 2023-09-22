@@ -1,0 +1,19 @@
+{
+  "name": "record-store",
+  "version": "1.0.0",
+  "description": "Console App created for San Cayetano's EMIT. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Profe Marce",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.6.3",
+    "@types/readline-sync": "^1.4.4",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
